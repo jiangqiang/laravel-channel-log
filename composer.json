@@ -1,0 +1,20 @@
+{
+    "name": "l-j/log",
+    "description": "Laravel log",
+    "authors": [
+        {
+            "name": "jiangqiang",
+            "email": "jiangqiang9011@126.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "LJ\\Log\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
