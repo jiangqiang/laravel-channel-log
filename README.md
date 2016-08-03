@@ -33,7 +33,7 @@ If you want to overwrite the config by command:
 
 then in the app/packages, you can customize the config yourself. Note: the default config and the default channel is required.
 
-## Useage
+## Usage
 
 `Log::info($channel, $msg [, array $context]);`
 
